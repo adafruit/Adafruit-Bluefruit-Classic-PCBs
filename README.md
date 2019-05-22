@@ -1,4 +1,4 @@
-## Adafruit Bluefruit Classic PCBs (Discontinued)
+## Bluefruit EZ-Link - Bluetooth Serial Link & Arduino Programmer - v1.3 PCBs (Discontinued)
 <a href="http://www.adafruit.com/products/1588"><img src="assets/image.jpg?raw=true" width="500px"><br/>
 Click here to view in the Adafruit shop</a>
 
